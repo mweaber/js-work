@@ -28,7 +28,7 @@ console.log(typeof car);
 let test; 
 console.log(typeof test);
 
-// Symbol
+// Symbol (ES6)
 const sym = Symbol();
 console.log(typeof sym);
 

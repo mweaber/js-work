@@ -13,7 +13,7 @@ val = firstName + lastName;
 val = firstName + " " + lastName;
 
 // Appending
-val = "Rebecca";
+val = "Rebecca ";
 val += "Olson";
 
 val = 'Hello, my name is ' + firstName + ' and I am ' + age;

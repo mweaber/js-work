@@ -34,4 +34,4 @@
     -Webpack / Babel
 
 #Section 1
-    -In this section we start with basics and examples for data types, converting types, etc. 
+    -In this section we start with basics and examples of JavaScript

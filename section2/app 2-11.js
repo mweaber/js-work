@@ -57,4 +57,4 @@ const tasks = JSON.parse(localStorage.getItem('tasks'));
 // Sets foreach loop to console log.
 tasks.forEach(function(task){
     console.log(task);
-})
+});

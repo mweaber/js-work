@@ -35,3 +35,9 @@
 
 #Section 1
     -In this section we start with basics and examples of JavaScript
+
+#Section 2
+    -Dom manipulations and local storage
+
+#Project 1: Task List
+    -In this project you have a task list that allows users to add, delete, and filter down tasks which also persist in local storage. Shows JSON parse and stringify examples as well as the handy filter ability based on the value of the input. 
